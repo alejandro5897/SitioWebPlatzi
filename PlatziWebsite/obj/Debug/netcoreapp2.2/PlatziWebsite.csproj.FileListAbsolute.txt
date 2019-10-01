@@ -58,3 +58,13 @@
 /home/amin/Documents/Platzi/Web Apps/SitioWebPlatzi/PlatziWebsite/obj/Debug/netcoreapp2.2/PlatziWebsite.dll
 /home/amin/Documents/Platzi/Web Apps/SitioWebPlatzi/PlatziWebsite/obj/Debug/netcoreapp2.2/PlatziWebsite.pdb
 /home/amin/Documents/Platzi/Web Apps/SitioWebPlatzi/PlatziWebsite/obj/Debug/netcoreapp2.2/PlatziWebsite.csproj.CopyComplete
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.csprojAssemblyReference.cache
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.RazorAssemblyInfo.cache
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.RazorAssemblyInfo.cs
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.AssemblyInfoInputs.cache
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.AssemblyInfo.cs
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.TagHelpers.input.cache
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.TagHelpers.output.cache
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.dll
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.pdb
+C:\Users\alejandro.castilla\Documents\Web Apps\SitioPlatzi\SitioWebPlatzi\PlatziWebsite\obj\Debug\netcoreapp2.2\PlatziWebsite.RazorCoreGenerate.cache
